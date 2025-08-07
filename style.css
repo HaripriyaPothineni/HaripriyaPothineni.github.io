@@ -1,0 +1,20 @@
+css = """
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 30px;
+}
+.container {
+    max-width: 800px;
+    background: #fff;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+}
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+"""
